@@ -129,6 +129,7 @@ namespace FRDB_SQLite
                         foreach (var item in this._selectedRelations[0].Tuples)
                             result.Tuples.Add(item);
                     }
+
                 }
             }
             catch (Exception ex)
