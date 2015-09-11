@@ -389,6 +389,7 @@
     <None Include="bin\Debug\FRDB-SQLite.exe.config" />
     <None Include="bin\Debug\FRDB-SQLite.vshost.exe.config" />
     <None Include="bin\Debug\FRDB-SQLite.vshost.exe.manifest" />
+    <None Include="ClassDiagram1.cd" />
     <None Include="Data\about_100km.conFS" />
     <None Include="Data\about_10h.conFS" />
     <None Include="Data\about_10kg.conFS" />
